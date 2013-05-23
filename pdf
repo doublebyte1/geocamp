@@ -1,0 +1,4 @@
+pdflatex geocamp
+pdflatex geocamp
+okular geocamp.pdf
+

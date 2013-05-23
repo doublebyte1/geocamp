@@ -1,0 +1,23 @@
+\frametitle {Representar a Informa\c{c}\~{a}o Espacial (+)}
+
+Se queremos calcular a \'{a}rea arrastada, qual \'{e} a representa\c{c}\~{a}o mais adequada?
+\\~\\
+
+\tiny{
+\pause
+\begin{lstlisting}
+pts: select area( buffer(Makeline(geometry), 0.5) ) from trawl_points a order by rowid
+\end{lstlisting}
+\pause
+\begin{lstlisting}
+linha: select area( buffer(a.geometry, 0.5)  ) from trawl_lines as a
+\end{lstlisting}
+\pause
+\begin{lstlisting}
+poligono select area(geometry) from trawl_polygons
+\end{lstlisting}
+
+
+%area=201472.064690 m
+
+}

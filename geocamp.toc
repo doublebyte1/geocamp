@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Introdu\c {c}\~{a}o}{3}{0}{1}
+\beamer@sectionintoc {2}{Escolha de Ferramentas Adequadas}{6}{0}{2}
+\beamer@sectionintoc {3}{FOSS}{16}{0}{3}
+\beamer@sectionintoc {4}{Informa\c {c}\~{a}o Espacial}{24}{0}{4}
+\beamer@sectionintoc {5}{AGILE}{37}{0}{5}
+\beamer@sectionintoc {6}{Sumario}{49}{0}{6}
+\beamer@sectionintoc {7}{Refer\^{e}ncias}{50}{0}{7}
